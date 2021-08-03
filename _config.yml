@@ -103,7 +103,11 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : #"Department of Molecular Cell Biology, 
+Sungkyunkwan University School of Medicine,
+(16419) 2066, SEOBU-RO, JANGAN-GU, SUWON-SI, GYEONGGI-DO, 
+Repulic of KOREA
+"
   location         : "Somewhere"
   email            :
   links:
