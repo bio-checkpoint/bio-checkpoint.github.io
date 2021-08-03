@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Bio-Tools "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seong-Tae Kim"
-description              : "Bio-Tools"
+description              : "Bio-Tools Links"
 url                      : "https://bio-checkpoint.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seong-Tae Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
-  location         : "Department of Molecular Cell Biology, Sungkyunkwan University School of Medicine, (16419) 2066, SEOBU-RO, JANGAN-GU, SUWON-SI, GYEONGGI-DO, Repulic of KOREA"
-  email            :
+  bio              : "Sungkyunkwan University School of Medicine"
+  location         : "Repulic of KOREA"
+  email            : "stkim@skku.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
