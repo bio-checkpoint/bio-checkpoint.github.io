@@ -103,7 +103,8 @@ analytics:
 author:
   name             : "Seong-Tae Kim, Ph.D."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sungkyunkwan University School of Medicine"
+  bio              : "Sungkyunkwan University 
+                      School of Medicine"
   location         : "Repulic of KOREA"
   email            : "stkim@skku.edu"
   links:
